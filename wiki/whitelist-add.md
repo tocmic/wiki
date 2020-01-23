@@ -60,3 +60,5 @@ SpiritWorld是启用了白名单服务器，您可以继续往下看以获得加
 
 呐呐呐
 
+最后，献上申请附件>>[百度云](https://pan.baidu.com/s/1awS5_K9HK2EGCxdhNGNQWA)
+
