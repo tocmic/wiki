@@ -4,7 +4,7 @@
 
 申请白名单请见[白名单申请](wiki/whitelist-add.md)页
 
-# 当前页面 SpritWorld
+# 当前页面 SpiritWorld
 
 服务器运行版本 Spigot 1.14.4 Online mode
 
