@@ -75,5 +75,5 @@
 呐呐呐
 
 最后，献上申请附件
->1. [百度云](https://pan.baidu.com/s/1awS5_K9HK2EGCxdhNGNQWA) #此为第一种申请方式
->2. [百度云] #此为第二种申请方式
+>1. [百度云](https://pan.baidu.com/s/1p-dHkzq3jzodHzHqw4q4Ew) #此为第一种申请方式
+>2. [百度云](https://pan.baidu.com/s/1nLENxn-u8BRuSTfwfdDoUQ) #此为第二种申请方式
