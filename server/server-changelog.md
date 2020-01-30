@@ -13,3 +13,7 @@
  - 更改玩家离开服务器后的提示
 
  - 更改res插件中：岩浆，水放置的最大高度为256
+ 
+ ### 2020-1-30 21:15
+ 
+  - 添加 NyaaUtils NyaaBank ChopTree2 PlayTimeTracker Skript 插件，更新QuickShop-3.1.3.3 > 3.1.3.5
