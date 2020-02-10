@@ -6,6 +6,7 @@
   * [World丨世界设定](server/world.md)
   * [Build丨建筑奖励](wiki/build-reward.md)
   * [非原创建筑管理条例](wiki/build-punish.md)
+  * [cmd丨服务器常用命令](wiki/command-help.md)
 * 关于
   * [wiki更新记录](changelog.md)
   * [服务器更新记录](server/server-changelog.md)
