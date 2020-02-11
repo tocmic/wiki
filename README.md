@@ -1,6 +1,6 @@
 欢迎来到 南外手艺 Server ~
 
-欢迎对此wiki做出补充 ~ >>[Github](https://github.com/Kyomotoi/SpiritWiki.github.io)
+wiki知识库正在完善喵，欢迎对其做出补充 ~ >>[Github](https://github.com/Kyomotoi/SpiritWiki.github.io)
 
 申请白名单请见[白名单申请](wiki/whitelist-add.md)页
 
@@ -22,3 +22,6 @@
 ### 联系
 
  - 加入服务器主群 111967996
+
+
+**如对本wiki有更好的意见和建议，可直接联系QQ：1172294279，提出您宝贵的意见和建议，征用后将对您作出适当的奖励**
