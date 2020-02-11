@@ -10,3 +10,5 @@
 * 关于
   * [wiki更新记录](changelog.md)
   * [服务器更新记录](server/server-changelog.md)
+* 其它
+  * [Ban丨玩家封禁列表](server/banner.md)
