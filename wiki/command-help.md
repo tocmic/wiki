@@ -50,8 +50,8 @@
 |`/heh transaction sellto [玩家 ID] [单价]`<br />`/hsellto [玩家 ID] [单价]`	|向指定玩家出售手中物品，并发送账单	 ||
 |`/heh transaction pay [账单 ID]`<br />`/hpay [账单 ID]` |支付指定账单，并收货	|收费|
 |`/heh transaction cancel [账单 ID]`	|取消指定账单	 ||
-|`/npc hehshop`	|创建一个NPC，替代自己售货	|与自己样貌相同|
-|`/npc hehshop remove`	|移除自己创建的NPC	 ||
+|`/npc hehshop`	|创建一个NPC，替代自己售货	|请联系管理创建|
+|`/npc hehshop remove`	|移除自己创建的NPC	 |请联系管理移除|
 
 ## 物品类
 
