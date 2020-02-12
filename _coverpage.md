@@ -8,4 +8,6 @@
 * BBS (正在建设中w)
 * [卫星地图](http://43.248.188.80:10100/index.html)
 
+[github](https://github.com/Kyomotoi/wiki)
+
 ![](page/bj.png)
