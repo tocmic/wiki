@@ -1,4 +1,4 @@
-![logo](page/icon.svg)
+![logo](page/icon.png)
 # tttest
 ## tttttest
 > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
