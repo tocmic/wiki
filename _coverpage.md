@@ -1,10 +1,9 @@
 ![logo](page/icon.png)
-# tttest
-## tttttest
+# NFLsedition | Wiki
 > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+* test
 
 [GitHub](https://github.com/kyomotoi/wiki/master)
+
+![](page/bj.png)
