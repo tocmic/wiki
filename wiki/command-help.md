@@ -33,7 +33,7 @@
 |`/pay [玩家 ID] [金额]`	|转账给指定玩家	|执行后**立即转账**|
 |`/ptt ac`	|领取刚刚提示的PTT奖励	 ||
 |`/heh market view`<br />`/hm`	|打开世界商店	 ||
-|`/heh market offer [单价]`<br />`/hm [单价]`	|将手中的物品上架到世界商店|	收费|
+|`/heh market offer [单价]`<br />`/hm [单价]`	|将手中的物品上架到世界商店|	请勿使用，已失效|
 |`/heh requisition req [物品ID] [单价] [数量]`<br />`/hreq [物品ID] [单价] [数量]`	|发起征购	 |物品ID为“hand”时，征购手中的物品|
 |`/heh requisition sell [数量（可选）]`<br />`/hsell [数量（可选）]`	|手持征购中物品，响应征购	 ||
 |`/heh auction auc [起步价] [步进价] [保留价（可选）]`<br />`/hauc [起步价] [步进价] [保留价（可选）]`	|发起拍卖，拍卖手中的物品	 ||
