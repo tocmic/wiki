@@ -14,6 +14,14 @@
 
  - 更改res插件中：岩浆，水放置的最大高度为256
  
- ### 2020-1-30 21:15
+### 2020-1-30 21:15
  
-  - 添加 NyaaUtils NyaaBank ChopTree2 PlayTimeTracker Skript 插件，更新QuickShop-3.1.3.3 > 3.1.3.5
+ - 添加 NyaaUtils NyaaBank ChopTree2 PlayTimeTracker Skript 插件，更新QuickShop-3.1.3.3 > 3.1.3.5
+
+### 2020-2-15 20:00
+ 
+ - 更新服务器版本 1.14.4 > 1.15.2 以及所有插件支持的游戏版本
+
+### 2020-2-16 14:??
+
+ - 后台无法连接，索性服务端没有问题，数据依存，正打算提升服务器配置。
