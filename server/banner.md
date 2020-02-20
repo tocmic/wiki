@@ -11,10 +11,10 @@
 
 ### 矿物透视
 
-| 封禁ID| 证据|备注 |
-| ------------ | ------------ | ------------ |
-| chaotic_man |  [度盘](https://pan.baidu.com/s/1jsdHeorYebZtw7Cx2qwnpw) 提取码:bxye     | |
-|TianYu_Jun |[度盘](https://pan.baidu.com/s/1A5qvafZO-gyIFD4RomboqA) 提取码:naj3 | |
+| 封禁ID| 证据|原因 |处决人 |
+| ------------ | ------------ | ------------ |------------ |
+| chaotic_man |  [度盘](https://pan.baidu.com/s/1jsdHeorYebZtw7Cx2qwnpw) 提取码:bxye     | | |
+|TianYu_Jun |[度盘](https://pan.baidu.com/s/1A5qvafZO-gyIFD4RomboqA) 提取码:naj3 | | |
 
 ### 利用漏洞
 
