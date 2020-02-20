@@ -11,11 +11,11 @@
 
 ### 矿物透视
 
-| 封禁ID| 证据|原因 |处决人 |
-| ------------ | ------------ | ------------ |------------ |
-| chaotic_man |  [度盘](https://pan.baidu.com/s/1jsdHeorYebZtw7Cx2qwnpw) 提取码:bxye     |使用矿物透视材质包 |Kyomotoi_ |
-|TianYu_Jun |[度盘](https://pan.baidu.com/s/1A5qvafZO-gyIFD4RomboqA) 提取码:naj3 |使用矿物透视材质包 |Kyomotoi_ |
-|bai_wu_yue |[度盘](https://pan.baidu.com/s/1Z9hHBvAcAS0r1zFVnpbT0w) 提取码:jtrl |使用矿物透视材质包 |Kyomotoi_ |
+| 封禁ID| 证据|原因 |封禁天数 |封禁时间 |处决人 |
+| ------------ | ------------ | ------------ |------------ |------------ |------------ |
+| chaotic_man |  [度盘](https://pan.baidu.com/s/1jsdHeorYebZtw7Cx2qwnpw) 提取码:bxye     |使用矿物透视材质包 |30d |2020-01-30 23:13:55 +0800 |Kyomotoi_ |
+|TianYu_Jun |[度盘](https://pan.baidu.com/s/1A5qvafZO-gyIFD4RomboqA) 提取码:naj3 |使用矿物透视材质包 |30d |2020-02-03 22:54:57 +0800 |Kyomotoi_ |
+|bai_wu_yue |[度盘](https://pan.baidu.com/s/1Z9hHBvAcAS0r1zFVnpbT0w) 提取码:jtrl |使用矿物透视材质包 |3d |等待封禁 |Kyomotoi_ |
 
 ### 破坏玩家建筑/地形
 
