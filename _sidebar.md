@@ -12,3 +12,4 @@
 * 其它
   * [Ban丨玩家封禁列表](server/banner.md)
   * [非原创建筑管理条例](wiki/build-punish.md)
+  * [奖励丨惩罚说明](server/Reward-punishment.md)
