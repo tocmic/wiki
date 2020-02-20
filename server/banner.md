@@ -13,14 +13,18 @@
 
 | 封禁ID| 证据|原因 |处决人 |
 | ------------ | ------------ | ------------ |------------ |
-| chaotic_man |  [度盘](https://pan.baidu.com/s/1jsdHeorYebZtw7Cx2qwnpw) 提取码:bxye     | | |
-|TianYu_Jun |[度盘](https://pan.baidu.com/s/1A5qvafZO-gyIFD4RomboqA) 提取码:naj3 | | |
+| chaotic_man |  [度盘](https://pan.baidu.com/s/1jsdHeorYebZtw7Cx2qwnpw) 提取码:bxye     |使用矿物透视材质包 |Kyomotoi_ |
+|TianYu_Jun |[度盘](https://pan.baidu.com/s/1A5qvafZO-gyIFD4RomboqA) 提取码:naj3 |使用矿物透视材质包 |Kyomotoi_ |
+|bai_wu_yue |[度盘](https://pan.baidu.com/s/1Z9hHBvAcAS0r1zFVnpbT0w) 提取码:jtrl |使用矿物透视材质包 |Kyomotoi_ |
+
+### 破坏玩家建筑/地形
 
 ### 利用漏洞
 
 ### 使用作弊客户端
 
 ### 言行不当
+
 
 
 
