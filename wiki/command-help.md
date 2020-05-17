@@ -34,24 +34,6 @@
 |`/balance`<br />`/bal`	|查看现金余额	 ||
 |`/pay [玩家 ID] [金额]`	|转账给指定玩家	|执行后**立即转账**|
 |`/ptt ac`	|领取刚刚提示的PTT奖励	 ||
-|`/heh market view`<br />`/hm`	|打开世界商店	 ||
-|`/heh market offer [单价]`<br />`/hm [单价]`	|将手中的物品上架到世界商店|	请勿使用，已失效|
-|`/heh requisition req [物品ID] [单价] [数量]`<br />`/hreq [物品ID] [单价] [数量]`	|发起征购	 |物品ID为“hand”时，征购手中的物品|
-|`/heh requisition sell [数量（可选）]`<br />`/hsell [数量（可选）]`	|手持征购中物品，响应征购	 ||
-|`/heh auction auc [起步价] [步进价] [保留价（可选）]`<br />`/hauc [起步价] [步进价] [保留价（可选）]`	|发起拍卖，拍卖手中的物品	 ||
-|`/heh auction bid [价格]`<br />`/hbid [价格]`	|在拍卖中出价	|价格**留空**或为“min”时，跟进可允许的最低价格|
-|`/heh retrieve [confirm]`	|取回购买后，暂存于系统的物品|	执行前，需腾退背包/末影箱空间|
-|`/heh shop sell [单价]`	|上架商品到你的木牌商店|	执行前，对准自己的商店“SELL”木牌|
-|`/heh shop storage set`	|设置收购存储箱	 ||
-|`/heh shop storage info`	|查询收购存储箱位置	 ||
-|`/heh shop buy [单价]`	|将手中的物品添加到收购列表	|执行前，对准自己的商店“BUY”木牌|
-|`/heh shop lotto set`	|设置抽奖奖池存储箱	 ||
-|`/heh shop lotto info`	|查询抽奖奖池存储箱位置	 ||
-|`/heh search [关键词] [选项:值]`	|搜索世界木牌商店中的商品	 ||
-|`/heh searchpage [页码]`	|搜索结果页翻页	 ||
-|`/heh transaction sellto [玩家 ID] [单价]`<br />`/hsellto [玩家 ID] [单价]`	|向指定玩家出售手中物品，并发送账单	 ||
-|`/heh transaction pay [账单 ID]`<br />`/hpay [账单 ID]` |支付指定账单，并收货	|收费|
-|`/heh transaction cancel [账单 ID]`	|取消指定账单	 ||
 |`/npc hehshop`	|创建一个NPC，替代自己售货	|请联系管理创建|
 |`/npc hehshop remove`	|移除自己创建的NPC	 |请联系管理移除|
 
@@ -71,8 +53,6 @@
 |`/nu mailbox info`	|查看自己的邮箱信息	 ||
 |`/nu mailbox send` [玩家 ID]	|发送手中的物品	|收费|
 |`/nu mailbox sendchest [玩家 ID]`	|发送一箱物品	|执行后，右键点击此箱子；收费|
-|`/nu prefix [前缀]`	|设置名称前缀	|可使用样式代码；收费|
-|`/nu resetprefix	`|删除名称前缀	|| 
 |`/nu suffix [后缀]`	|设置名称后缀	|可使用样式代码；收费|
 |`/nu resetsuffix`	|删除名称后缀	 ||
 |`/nu format`	|查看可用的样式代码	 ||
