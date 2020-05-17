@@ -53,6 +53,8 @@
 |`/nu mailbox info`	|查看自己的邮箱信息	 ||
 |`/nu mailbox send` [玩家 ID]	|发送手中的物品	|收费|
 |`/nu mailbox sendchest [玩家 ID]`	|发送一箱物品	|执行后，右键点击此箱子；收费|
+|`/nu prefix [前缀]`	|设置名称前缀	|可使用样式代码；收费|
+|`/nu resetprefix`	|删除名称前缀	 ||
 |`/nu suffix [后缀]`	|设置名称后缀	|可使用样式代码；收费|
 |`/nu resetsuffix`	|删除名称后缀	 ||
 |`/nu format`	|查看可用的样式代码	 ||
