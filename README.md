@@ -1,6 +1,6 @@
 欢迎来到 南外手艺 Server ~
 
-wiki知识库正在完善喵，我们诚挚地邀请您对其做出补充 ~ >>[Github](https://github.com/Kyomotoi/SpiritWiki.github.io)
+wiki知识库正在完善喵，我们诚挚地邀请您对其做出补充 ~ >>[Github](https://github.com/Kyomotoi/wiki)
 
 申请白名单请见[白名单申请](wiki/whitelist-add.md)页
 
